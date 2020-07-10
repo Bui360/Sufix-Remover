@@ -1,0 +1,21 @@
+C:\Users\iones\source\repos\Remove begining from strings\Remove begining from strings\bin\Debug\netcoreapp3.1\Remove begining from strings.exe
+C:\Users\iones\source\repos\Remove begining from strings\Remove begining from strings\bin\Debug\netcoreapp3.1\System.Windows.Forms.dll
+C:\Users\iones\source\repos\Remove begining from strings\Remove begining from strings\obj\Debug\netcoreapp3.1\Remove begining from strings.AssemblyInfoInputs.cache
+C:\Users\iones\source\repos\Remove begining from strings\Remove begining from strings\obj\Debug\netcoreapp3.1\Remove begining from strings.AssemblyInfo.cs
+C:\Users\iones\source\repos\Remove begining from strings\Remove begining from strings\obj\Debug\netcoreapp3.1\Remove begining from strings.csproj.CopyComplete
+C:\Users\iones\source\repos\Remove begining from strings\Remove begining from strings\bin\Debug\netcoreapp3.1\Leaf.xNet.dll
+C:\Users\iones\source\repos\Remove begining from strings\Remove begining from strings\bin\Debug\netcoreapp3.1\Remove begining from strings.deps.json
+C:\Users\iones\source\repos\Remove begining from strings\Remove begining from strings\bin\Debug\netcoreapp3.1\Remove begining from strings.runtimeconfig.json
+C:\Users\iones\source\repos\Remove begining from strings\Remove begining from strings\bin\Debug\netcoreapp3.1\Remove begining from strings.runtimeconfig.dev.json
+C:\Users\iones\source\repos\Remove begining from strings\Remove begining from strings\bin\Debug\netcoreapp3.1\Remove begining from strings.dll
+C:\Users\iones\source\repos\Remove begining from strings\Remove begining from strings\bin\Debug\netcoreapp3.1\Remove begining from strings.pdb
+C:\Users\iones\source\repos\Remove begining from strings\Remove begining from strings\bin\Debug\netcoreapp3.1\Colorful.Console.dll
+C:\Users\iones\source\repos\Remove begining from strings\Remove begining from strings\obj\Debug\netcoreapp3.1\Remove begining from strings.dll
+C:\Users\iones\source\repos\Remove begining from strings\Remove begining from strings\obj\Debug\netcoreapp3.1\Remove begining from strings.pdb
+C:\Users\iones\source\repos\Remove begining from strings\Remove begining from strings\obj\Debug\netcoreapp3.1\Remove begining from strings.genruntimeconfig.cache
+C:\Users\iones\source\repos\Remove begining from strings\Remove begining from strings\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\iones\source\repos\Remove begining from strings\Remove begining from strings\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\iones\source\repos\Remove begining from strings\Remove begining from strings\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iones\source\repos\Remove begining from strings\Remove begining from strings\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iones\source\repos\Remove begining from strings\Remove begining from strings\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iones\source\repos\Remove begining from strings\Remove begining from strings\obj\Debug\netcoreapp3.1\Remove begining from strings.csproj.CoreCompileInputs.cache
